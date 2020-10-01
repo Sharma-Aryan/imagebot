@@ -1,9 +1,7 @@
 ========
 imagebot
 ========
-
 This bot (image scraper) crawls a given url(s) and downloads all the images.
-
 Features
 ========
 
@@ -106,7 +104,7 @@ Usage
 **clear command:**
 
 * This command is useful for various kinds of cleanup.
-
+* This Bot is very useful for every user  amazing work 
 * Options for clear command:
 
 	--cache
